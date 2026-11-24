@@ -7,6 +7,7 @@ This repository documents my cybersecurity studies through TryHackMe, including 
 | Room | Platform status | Documented work | Practical status |
 | --- | --- | --- | --- |
 | [CAPA — The Basics](rooms/capa-the-basics/README.md) | Completed | Report interpretation, ATT&CK, MAEC, MBC, YAML rules, namespaces, and JSON exploration · November 11–12, 2026 | Pending due to a lab VM loading issue |
+| [REMnux — Getting Started](rooms/remnux-getting-started/README.md) | Completed | Document analysis, INetSim HTTPS tests, memory preprocessing, and review · November 24, 2026 | Practical exercises documented with eight original screenshots |
 
 ## Earlier rooms
 
